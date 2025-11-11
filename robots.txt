@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://cintyafristha-jpg.github.io/galatama88/sitemap.xml
